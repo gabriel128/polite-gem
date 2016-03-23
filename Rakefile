@@ -17,9 +17,9 @@ Juwelier::Tasks.new do |gem|
   gem.name = "polite-gem"
   gem.homepage = "http://github.com/gabriel128/polite-gem"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
-  gem.email = "gabriel.torello@blake.com.au"
+  gem.summary = %Q{A gem to send polite messages to objects}
+  gem.description = %Q{Totally useless just for fun gem}
+  gem.email = "gabriel128@gmail.com"
   gem.authors = ["Gabriel Torello"]
   # dependencies defined in Gemfile
 end
