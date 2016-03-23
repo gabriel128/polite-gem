@@ -2,17 +2,27 @@
 
 A gem to be polite with objects.
 
-= F.A.Q
+== How to use this 
 
-== Why this gem was created?
+It adds the #please and #thanks! messages to every object
+
+<tt>AnObject.new.please.a_complex_operation</tt>
+
+<tt>AnObject.plase.please.do_other_complex_stuff.thanks! </tt>
+
+If you treat them politely the will answer you. I will let you discover the answers. 
+
+== F.A.Q
+
+=== Why this gem was created?
 
 Justs for fun
 
-== Can I use it in production code?
+=== Can I use it in production code?
 
 Of course
 
-== Is it usefull
+=== Is it usefull
 
 No, it's totally useless
 
