@@ -13,15 +13,13 @@ require 'rake'
 
 require 'jeweler'
 Jeweler::Tasks.new do |gem|
-  # gem is a Gem::Specification... see http://guides.rubygems.org/specification-reference/ for more options
   gem.name = "polite-gem"
   gem.homepage = "http://github.com/gabriel128/polite-gem"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
-  gem.email = "gabriel.torello@blake.com.au"
+  gem.summary = %Q{A gem to make your objects polite}
+  gem.description = %Q{A total usless gem,  just for fun}
+  gem.email = "gabriel128@gmail.com"
   gem.authors = ["Gabriel Torello"]
-  # dependencies defined in Gemfile
 end
 Jeweler::RubygemsDotOrgTasks.new
 

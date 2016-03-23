@@ -1,16 +1,27 @@
-= polite-gem
+= The Polite Gem
 
-Description goes here.
+A gem to be polite with objects.
+
+= F.A.Q
+
+== Why this gem was created?
+
+Justs for fun
+
+== Can I use it in production code?
+
+Of course
+
+== Is it usefull
+
+No, it's totally useless
+
+
 
 == Contributing to polite-gem
- 
-* Check out the latest master to make sure the feature hasn't been implemented or the bug hasn't been fixed yet.
-* Check out the issue tracker to make sure someone already hasn't requested it and/or contributed it.
-* Fork the project.
-* Start a feature/bugfix branch.
-* Commit and push until you are happy with your contribution.
-* Make sure to add tests for it. This is important so I don't break it in a future version unintentionally.
-* Please try not to mess with the Rakefile, version, or history. If you want to have your own version, or is otherwise necessary, that is fine, but please isolate to its own commit so I can cherry-pick around it.
+
+* Fork and open a PR, if it contributes with politeness between objects will be surely be merged
+* Objects doesn't like ifs, switch-cases so don't even try it
 
 == Copyright
 
